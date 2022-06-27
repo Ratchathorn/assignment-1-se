@@ -1,7 +1,7 @@
 package myapp;
 
-public class Cat {
+public class Dog {
     public static void main(String[] args) {
-        System.out.println("My ku ac th");
+        System.out.println("Please, send help!");
     }
 }
